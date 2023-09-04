@@ -1,0 +1,31 @@
+# STM32CubeIDE project build output
+Debug/
+Release/
+Debug.log
+*.launch
+*.launch.py
+*.ld
+
+# STM32CubeIDE specific files
+.settings/
+STM32CubeIDE/
+.project
+.cproject
+.mxproject
+
+# STM32CubeMX generated files (if applicable)
+SW4STM32/
+stm32cubemx/
+i2c/
+spi/
+usart/
+
+# Compiled binary files
+*.elf
+*.bin
+*.hex
+
+# Editor and system files
+*.swp
+*~
+.DS_Store
